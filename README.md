@@ -11,7 +11,7 @@ Dependencies required
 2. AWS CLI
 3. kubectl
 
-###  Install dependencies
+###  Install dependencies of k8
 
 ```
 curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key add -
